@@ -1,5 +1,4 @@
 # UnityProjectsRoot
-Links to repos with various personal projects.
 
 - **VrShootyGame** - a simple VR game made for self-learning purposes. Player tries to evade enemy bullets and kll em all. 
 - **BashCraft** - test assignment for Unity dev position, completed using patterns and OOP principles. Patterns used: DI, Factory, Data Mapper. 
