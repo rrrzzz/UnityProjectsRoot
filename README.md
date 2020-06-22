@@ -1,5 +1,6 @@
 # UnityProjectsRoot
 
+- [**RealEstateShowcase**](https://github.com/rrrzzz/RealEstateShowcase/) - test assignment for Unity dev position, involved drawing 3d / 2d map from geojson data and placing dynamically sized objects on it by geographical coordinates.
 - [**VrShootyGame**](https://github.com/rrrzzz/VrShootyGame) - a simple VR game made for self-learning purposes. Player tries to evade enemy bullets and kll em all. 
 - [**BashCraft**](https://github.com/rrrzzz/BashCraft) - test assignment for Unity dev position, completed using patterns and OOP principles. Patterns used: DI, Factory, Data Mapper. 
 - [**HospitalTextQuest**](https://github.com/rrrzzz/HospitalTextQuest) - main project, 90% complete. Horror game where player is stuck in a haunted hospital. Features 2d and 3d scenes, various shaders and effects, movement and look recording and playback system, glitched text synced with audio beat (the faster and more pronounced the beat the more text is glitched).  
